@@ -1,0 +1,1 @@
+2: [Output module] - received an empty array from the simulation
