@@ -1,7 +1,4 @@
 # Disk scheduling algorithms
-#### Made by team №7: Artem Popelyshev, Ozgur Kaya, Ruslan Molchaniuk
-
-The report can be found in the root folder as `Disk_scheduling_report.pdf`
 
 ## Cloning and running the project
 To launch the latest release you can either first clone the repository
